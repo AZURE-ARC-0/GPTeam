@@ -71,6 +71,8 @@ We enthusiastically welcome contributions to GPTeam! To contribute, please follo
 
 We will review your pull request and provide feedback as necessary.
 
+https://blog.langchain.dev/gpteam-a-multi-agent-simulation/
+
 ## License
 
 Licensed under the [MIT license](LICENSE).
